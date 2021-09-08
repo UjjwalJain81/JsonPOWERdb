@@ -20,10 +20,9 @@ It can be used in any softwar application that need backened database like web a
 
 #### Release history
 
-I made this project with the help of course offered by Login2Xplore to learn JsonPowerDB. It is also my first time that i am posting my code at github. Thank you Login2Xplore
-for all of this support and learning material.
+I made this project with the help of course offered by Login2Xplore to learn JsonPowerDB. It is also my first time that i am posting my code at github. ***Thank you*** Login2Xplore for all of this support and learning material.
 
-#### some Screenshots
+#### Screenshots
 
 ![This is Image.](https://user-images.githubusercontent.com/85061286/132566730-793bdf51-fd81-4f47-be81-d4fb31026b38.PNG)
 
