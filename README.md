@@ -1,7 +1,7 @@
-#Verification Form
-#### using JsonPowerDB
+# Verification Form
+#### Using JsonPowerDB
 
-*** This is my first project using JsonPowerDB in which i learn to use JPDB to store data and used some CRUD operatioon for inserting data. ***
+***This is my first project using JsonPowerDB in which i learn to use JPDB to store data and used some CRUD operatioon for inserting data.***
 
 
 #### What is JsonPowerDB ?
